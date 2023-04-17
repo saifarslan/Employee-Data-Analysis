@@ -26,7 +26,7 @@ Are People paid more based on their Gender ?
 1. What are average Salaries for each Gender
 2. Is Gender Pay Gap based on specific countries employee's work in ? 
 3. Are Salaries Equal for same positions ?
-4. Is Bounus Amount Higher or lower  based on Gender ? 
+4. Is Bonus Amount Higher or lower  based on Gender ? 
 5. Is Pay Gap depended on Job Titles ?
 6. What is the acutal amount of salaries accross different Genders in each country ? 
 7. What are Salaries of different employees in different departments ? 
